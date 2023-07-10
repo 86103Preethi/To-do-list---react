@@ -1,0 +1,9 @@
+{
+    "items":[
+        {"id":1, "checked":true,  "item": "Practice Coding"},
+        {"id":2, "checked":true,  "item": "Learn react"},
+        {"id":3, "checked":false,  "item": "Sleep" },
+        {"id":4, "checked":false,  "item": "Drive" },
+        {"id":5, "checked":true,  "item": "Walking" }
+    ]
+}
